@@ -9,3 +9,6 @@ Django REST API with JWT authentication
  pagination
  
  and tests.
+
+“The root URL redirects to the Django admin login page for administrative access.
+All REST APIs are available under /api/ and are secured using JWT authentication.”
