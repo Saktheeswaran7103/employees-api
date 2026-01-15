@@ -3,3 +3,5 @@ djangorestframework
 djangorestframework-simplejwt
 django-filter
 gunicorn
+dj-database-url
+psycopg2-binary
